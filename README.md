@@ -1,4 +1,4 @@
-Quiz Sync Local Plugin for Moodle 2.2+
+jQuery Local Plugin for Moodle 2.2+
 ==================================================
 
 This is a package of jQuery for Moodle. jQuery is authored by, and copyright, the jQuery foundation.
